@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdurrahman Yeşilgül
-- 👀 I’m interested in every machine-learning field
+- 👀 I’m interested in every machine-learning fields
 - 🌱 I’m currently learning HPC and Machine Learning
 - 📫 alpyesilgul0@gmail.com
 
