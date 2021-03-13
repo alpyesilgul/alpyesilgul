@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdurrahman Yeşilgül
 - 👀 I’m interested in every machine-learning fields
 - 🌱 I’m currently learning HPC and Machine Learning
-- 📫 alpyesilgul0@gmail.com
+- 📫 For every cooperations mail to me : **alpyesilgul0@gmail.com**
 
 <!---
 alpyesilgul/alpyesilgul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
