@@ -8,6 +8,7 @@ Nowadays I'm interested :
 
 ![](https://img.shields.io/badge/1-MachineLearning-green)
 ![](https://img.shields.io/badge/2-HPC-green)
+![](https://img.shields.io/badge/3-ComputerVision-green)
 
 And my known languages are :
 
