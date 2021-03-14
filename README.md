@@ -1,7 +1,24 @@
-- 👋 Hi, I’m Abdurrahman Yeşilgül
-- 👀 I’m interested in every machine-learning fields
-- 🌱 I’m currently learning HPC and Machine Learning
-- 📫 For every cooperations mail to me : **alpyesilgul0@gmail.com**
+![](https://komarev.com/ghpvc/?username=alpyesilgul&color=green&style=flat-square&label=I+Hope+one+of+them+is+Human+Resources)
+
+# HI There !!!
+
+**I am Abdurrahman, and all my works and experiences are almost here**
+
+Nowadays I'm interested :
+
+![](https://img.shields.io/badge/1-MachineLearning-green)
+![](https://img.shields.io/badge/2-HPC-green)
+
+And my known languages are :
+
+![](https://img.shields.io/badge/1-Python-green)
+![](https://img.shields.io/badge/2-Java-green)
+![](https://img.shields.io/badge/3-C/C++-green)
+
+Also, I'm a little bit newbie, every kind of feedback will so useful for me  :facepunch: :facepunch: :facepunch:
+
+If you want to more information about me, mail to me :  :email: alpyesilgul0@gmail.com
+
 
 <!---
 alpyesilgul/alpyesilgul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
