@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=alpyesilgul&color=green&style=flat-square&label=I+Hope+one+of+them+is+Human+Resources)
+![](https://komarev.com/ghpvc/?username=alpyesilgul&color=green&style=flat-square&label=I+Hope+one+of+them+is+from+Human+Resources)
 
 # HI There !!!
 
