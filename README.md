@@ -15,6 +15,7 @@ And my known languages are :
 ![](https://img.shields.io/badge/1-Python-green)
 ![](https://img.shields.io/badge/2-Java-green)
 ![](https://img.shields.io/badge/3-C/C++-green)
+![](https://img.shields.io/badge/4-R-green)
 
 Also, I'm a little bit newbie, every kind of feedback will so useful for me  :facepunch: :facepunch: :facepunch:
 
